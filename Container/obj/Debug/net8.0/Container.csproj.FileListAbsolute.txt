@@ -1,0 +1,5 @@
+C:\Users\tkapucu\source\repos\CaseAktif\Container\obj\Debug\net8.0\Container.csproj.AssemblyReference.cache
+C:\Users\tkapucu\source\repos\CaseAktif\Container\obj\Debug\net8.0\Container.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkapucu\source\repos\CaseAktif\Container\obj\Debug\net8.0\Container.AssemblyInfoInputs.cache
+C:\Users\tkapucu\source\repos\CaseAktif\Container\obj\Debug\net8.0\Container.AssemblyInfo.cs
+C:\Users\tkapucu\source\repos\CaseAktif\Container\obj\Debug\net8.0\Container.csproj.CoreCompileInputs.cache

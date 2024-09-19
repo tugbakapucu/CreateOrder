@@ -1,0 +1,17 @@
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\bin\Debug\net8.0\ApiContract.deps.json
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\bin\Debug\net8.0\ApiContract.runtimeconfig.json
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\bin\Debug\net8.0\ApiContract.dll
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\bin\Debug\net8.0\ApiContract.pdb
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\bin\Debug\net8.0\Domain.dll
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\bin\Debug\net8.0\Domain.pdb
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContract.csproj.AssemblyReference.cache
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContract.AssemblyInfoInputs.cache
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContract.AssemblyInfo.cs
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContract.csproj.CoreCompileInputs.cache
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContr.1517AE09.Up2Date
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContract.dll
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\refint\ApiContract.dll
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContract.pdb
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ApiContract.genruntimeconfig.cache
+C:\Users\tkapucu\source\repos\CaseAktif\ApiContract\obj\Debug\net8.0\ref\ApiContract.dll

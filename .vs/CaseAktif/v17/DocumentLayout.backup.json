@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\webapplication1\\controllers\\customerordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|solutionrelative:webapplication1\\controllers\\customerordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB047D51-79F3-4911-8229-E120F0CD1D5B}|ApiContract\\ApiContract.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\apicontract\\validations\\product\\productcommandrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB047D51-79F3-4911-8229-E120F0CD1D5B}|ApiContract\\ApiContract.csproj|solutionrelative:apicontract\\validations\\product\\productcommandrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB047D51-79F3-4911-8229-E120F0CD1D5B}|ApiContract\\ApiContract.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\apicontract\\validations\\customerorder\\createorderqueryrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB047D51-79F3-4911-8229-E120F0CD1D5B}|ApiContract\\ApiContract.csproj|solutionrelative:apicontract\\validations\\customerorder\\createorderqueryrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB047D51-79F3-4911-8229-E120F0CD1D5B}|ApiContract\\ApiContract.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\apicontract\\apicontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB047D51-79F3-4911-8229-E120F0CD1D5B}|ApiContract\\ApiContract.csproj|solutionrelative:apicontract\\apicontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4F1FE6-93FB-4F8D-935A-B785C9C14AC2}|Domain\\Domain.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\domain\\caseaktifaggregate\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4F1FE6-93FB-4F8D-935A-B785C9C14AC2}|Domain\\Domain.csproj|solutionrelative:domain\\caseaktifaggregate\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{364BF8A0-3500-4497-BD68-C8B28F63050C}|WebApplication1\\Api.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240E02D-F9FA-4D94-80E4-6F853EAFEB29}|Repository\\Repository.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\repository\\repositoryaggregate\\customerorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8240E02D-F9FA-4D94-80E4-6F853EAFEB29}|Repository\\Repository.csproj|solutionrelative:repository\\repositoryaggregate\\customerorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4F1FE6-93FB-4F8D-935A-B785C9C14AC2}|Domain\\Domain.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\domain\\irepositoryaggregate\\icustomerorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4F1FE6-93FB-4F8D-935A-B785C9C14AC2}|Domain\\Domain.csproj|solutionrelative:domain\\irepositoryaggregate\\icustomerorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240E02D-F9FA-4D94-80E4-6F853EAFEB29}|Repository\\Repository.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8240E02D-F9FA-4D94-80E4-6F853EAFEB29}|Repository\\Repository.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240E02D-F9FA-4D94-80E4-6F853EAFEB29}|Repository\\Repository.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\repository\\repositoryaggregate\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8240E02D-F9FA-4D94-80E4-6F853EAFEB29}|Repository\\Repository.csproj|solutionrelative:repository\\repositoryaggregate\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4F1FE6-93FB-4F8D-935A-B785C9C14AC2}|Domain\\Domain.csproj|c:\\users\\tkapucu\\source\\repos\\caseaktif\\domain\\irepositoryaggregate\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4F1FE6-93FB-4F8D-935A-B785C9C14AC2}|Domain\\Domain.csproj|solutionrelative:domain\\irepositoryaggregate\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCommandRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\ApiContract\\Validations\\Product\\ProductCommandRequestValidator.cs",
+              "RelativeDocumentMoniker": "ApiContract\\Validations\\Product\\ProductCommandRequestValidator.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\ApiContract\\Validations\\Product\\ProductCommandRequestValidator.cs",
+              "RelativeToolTip": "ApiContract\\Validations\\Product\\ProductCommandRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:16:42.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderQueryRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\ApiContract\\Validations\\CustomerOrder\\CreateOrderQueryRequestValidator.cs",
+              "RelativeDocumentMoniker": "ApiContract\\Validations\\CustomerOrder\\CreateOrderQueryRequestValidator.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\ApiContract\\Validations\\CustomerOrder\\CreateOrderQueryRequestValidator.cs",
+              "RelativeToolTip": "ApiContract\\Validations\\CustomerOrder\\CreateOrderQueryRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:03:09.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiContract",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\ApiContract\\ApiContract.csproj",
+              "RelativeDocumentMoniker": "ApiContract\\ApiContract.csproj",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\ApiContract\\ApiContract.csproj",
+              "RelativeToolTip": "ApiContract\\ApiContract.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T07:01:07.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Startup.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\Startup.cs",
+              "RelativeToolTip": "WebApplication1\\Startup.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:00:56.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:00:55.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T07:00:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:54:09.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\Controllers\\CustomerOrderController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomerOrderController.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\Controllers\\CustomerOrderController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CustomerOrderController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwBUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:53:23.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICustomerOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Domain\\IRepositoryAggregate\\ICustomerOrderRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\IRepositoryAggregate\\ICustomerOrderRepository.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Domain\\IRepositoryAggregate\\ICustomerOrderRepository.cs",
+              "RelativeToolTip": "Domain\\IRepositoryAggregate\\ICustomerOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:52:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Repository\\RepositoryAggregate\\CustomerOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryAggregate\\CustomerOrderRepository.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Repository\\RepositoryAggregate\\CustomerOrderRepository.cs",
+              "RelativeToolTip": "Repository\\RepositoryAggregate\\CustomerOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:52:16.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:51:57.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Domain\\IRepositoryAggregate\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\IRepositoryAggregate\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Domain\\IRepositoryAggregate\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\IRepositoryAggregate\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:51:22.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Repository\\RepositoryAggregate\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryAggregate\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Repository\\RepositoryAggregate\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\RepositoryAggregate\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:50:36.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "57e10bc4-b75e-461c-8edf-fbdd234af8fb",
+        "Display": 0,
+        "X": 204,
+        "Y": 417,
+        "Width": 1458,
+        "Height": 935,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Domain\\CaseAktifAggregate\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\CaseAktifAggregate\\Product.cs",
+              "ToolTip": "C:\\Users\\tkapucu\\source\\repos\\CaseAktif\\Domain\\CaseAktifAggregate\\Product.cs",
+              "RelativeToolTip": "Domain\\CaseAktifAggregate\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:09:13.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

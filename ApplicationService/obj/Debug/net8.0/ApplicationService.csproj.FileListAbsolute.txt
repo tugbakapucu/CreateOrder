@@ -1,0 +1,5 @@
+C:\Users\tkapucu\source\repos\CaseAktif\ApplicationService\obj\Debug\net8.0\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\tkapucu\source\repos\CaseAktif\ApplicationService\obj\Debug\net8.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkapucu\source\repos\CaseAktif\ApplicationService\obj\Debug\net8.0\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\tkapucu\source\repos\CaseAktif\ApplicationService\obj\Debug\net8.0\ApplicationService.AssemblyInfo.cs
+C:\Users\tkapucu\source\repos\CaseAktif\ApplicationService\obj\Debug\net8.0\ApplicationService.csproj.CoreCompileInputs.cache
